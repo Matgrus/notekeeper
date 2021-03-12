@@ -1,5 +1,5 @@
 For the purpose of this project I used Spring Boot with JPA, Vaadin and H2 database.
-To build and run this project you can simply import it to your ide (in my case IntelliJ) and import dependencies using **npm i**.
+To build and run this project you can simply import it to your IDE (in my case IntelliJ) and import dependencies using **npm i**.
 The database settings are stored in application.properties file.
 Username is **"user"** and password is **"password"**
 
