@@ -3,8 +3,8 @@ To build and run this project you can simply import it to your ide (in my case I
 The database settings are stored in application.properties file.
 username is "user" and password is "password"
 
-- Usage:
+- Usage:  
 The application works with localhost:8080 address.
-There is version history webservice on /archive address and main service on /main address.
 All CRUD operations can be done by user interface.
+You can browse all notes on /main address and find specific note version history by passing the note id on /archive address.
 Additionally you can log into database on /db address with credentials mentioned earlier.
